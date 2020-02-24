@@ -1,0 +1,4 @@
+ welcome: "Welcome to Mortgage Calculator!"
+ try_again: "Try again, inputmust be a positive number."
+ another_calculation: "Do you want to perform another calculation? (Y to calculate again)"
+ good_bye: "Thank you for using the calculator. Good bye!"
